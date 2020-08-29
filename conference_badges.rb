@@ -12,4 +12,4 @@ end
     
 def assign_rooms(speakers)
   assign = []
-  speakers.each_with_index(speakers, index)
+  speakers.each_with_index do |speakers, index|
