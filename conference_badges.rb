@@ -10,3 +10,4 @@ end
   return badges
 end
     
+def assign_rooms(name)
