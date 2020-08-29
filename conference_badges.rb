@@ -19,4 +19,5 @@ end
 end
 
 def printer(guests)
-  batch_badge_creator(guests).each do 
+  batch_badge_creator(guests).each do |badge|
+    
