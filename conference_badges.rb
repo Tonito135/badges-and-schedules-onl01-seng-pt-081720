@@ -18,4 +18,4 @@ end
   return assign
 end
 
-def printer()
+def printer(guests)
