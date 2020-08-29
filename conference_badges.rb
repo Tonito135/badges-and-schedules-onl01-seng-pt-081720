@@ -12,4 +12,4 @@ end
     
 def assign_rooms(speakers)
   assign = []
-  
+  speakers.each
