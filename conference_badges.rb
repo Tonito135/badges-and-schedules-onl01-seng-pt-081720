@@ -25,3 +25,4 @@ def printer(guests)
   assign_rooms(guests).each do |badge|
     return badge
   end
+end
