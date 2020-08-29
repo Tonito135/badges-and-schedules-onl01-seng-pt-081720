@@ -19,3 +19,4 @@ end
 end
 
 def printer(guests)
+  
