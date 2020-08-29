@@ -10,4 +10,4 @@ end
   return badges
 end
     
-def assign_rooms(name)
+def assign_rooms(speakers)
